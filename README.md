@@ -1,7 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Identity: A student passionate about technology and innovation<br>🎓 Education: Currently studying at a vocational high school specializing in technology<br>🎨 Skills: Graphic Design<br>📱 Tech Projects: Engaged in projects with Flutter, React, C# .NET, Golang, SQLite, and MySQL<br>🎥 Current Work: Working on an attendance app for teachers, a web-based anime streaming platform, and other desktop applications
-
-
+🧑‍💻 Identity: A student passionate about technology and innovation<br>🎓 Education: Currently studying at a vocational high school specializing in technology<br>🎨 Skills: Graphic Design<br>📱 Tech Projects: Engaged in projects with Flutter, React, C# .NET, Golang, SQLite, and MySQL
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/siapasayaaaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alif_nanda.id) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nand.try._) 
 
